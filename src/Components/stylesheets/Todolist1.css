@@ -13,9 +13,7 @@ div .container {
     padding: 10px;
     box-shadow: 0px 0px 5px 2.5px white;
     width: 50%;
-    /* background-image: url('https://images.pexels.com/photos/13371114/pexels-photo-13371114.jpeg?auto=compress&cs=tinysrgb&w=600'); */
-    /* color: white; */
-    font-weight: 600;
+    font-weight: 900;
     transition-property: all;
     transition-duration: 2s;
 }

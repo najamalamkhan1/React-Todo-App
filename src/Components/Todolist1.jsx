@@ -21,9 +21,9 @@ function Todolist1() {
         setList(newTodos);
     };
 
-    let editTaskFunc = (item) => {
+    let editTaskFunc = () => {
         return (
-            alert('Sorry due to system maintainance you can not update Todo value.')
+            alert('Sorry this feature is unavaliable right now :(')
 
         )
 
